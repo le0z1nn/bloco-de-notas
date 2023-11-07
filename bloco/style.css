@@ -1,0 +1,65 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+
+h1 {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+
+
+textarea {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin: 5px;
+}
+
+
+#notas-salvas {
+    margin: 20px auto; 
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+    width: 500px; 
+    text-align: left; 
+}
+
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+a:hover {
+    color: #ffffff;
+}
